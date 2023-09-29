@@ -1,0 +1,18 @@
+{
+  "blueberryFrosted" : {
+    "dozen" : "$21.99",
+    "single" : "$3.99"
+  },
+  "classic" : {
+    "dozen" : "$17.99",
+    "single" : "$2.99"
+  },
+  "cosmos" : {
+    "dozen" : "$21.99",
+    "single" : "$3.99"
+  },
+  "strawberryDrizzle" : {
+    "dozen" : "$21.99",
+    "single" : "$3.99"
+  }
+}
